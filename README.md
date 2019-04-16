@@ -4,7 +4,7 @@
 
 <html>
   <head>
-    <title>My Homepage</title>
+   
   </head>
   <body>
   <h1>Hello!</h1>
