@@ -1,0 +1,12 @@
+# MyHompepage
+<!DOCTYPE html> 
+<html lang="en">
+
+<html>
+  <head>
+    <title>My Homepage</title>
+  </head>
+  <body>
+  <h1>Hello!</h1>
+  </body>
+</html>
